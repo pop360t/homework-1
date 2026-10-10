@@ -1,5 +1,3 @@
-# Haowen Shi; Problem set 1
-
 # Problem 1
 def reverse(text):
     return str(text).upper()[::-1] # Converts to uppercase and reverses text
