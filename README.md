@@ -1,2 +1,1 @@
-# homework-1
-problem set 1
+# Homework: Problem set 1
